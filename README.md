@@ -2,9 +2,6 @@
 
 > **Can we predict whether a student is depressed from their academic, lifestyle and personal factors?**
 > This project cleans a survey dataset of ~28,000 students, tests **11 ML classifiers** under **7 different data-balancing / feature-selection setups**, and explains the results with **Chi-Square, LightGBM importance and SHAP**.
-
-![Python](https://img.shields.io/badge/Python-3.10-blue) ![Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange) ![ML](https://img.shields.io/badge/Task-Binary%20Classification-green) ![Models](https://img.shields.io/badge/Models%20Compared-11-purple)
-
 ---
 
 ## ⚡ TL;DR (read this if you read nothing else)
@@ -423,10 +420,4 @@ Student_Depression_work_V_4_0/
 
 ---
 
-## 🩺 Disclaimer
 
-This project is for **educational and research purposes only**. It is **not a diagnostic tool** and must not replace professional mental-health assessment. If you or someone you know is struggling, please reach out to a qualified professional or a local helpline.
-
----
-
-<p align="center"><b>⭐ If you found this project useful, consider giving it a star!</b></p>
